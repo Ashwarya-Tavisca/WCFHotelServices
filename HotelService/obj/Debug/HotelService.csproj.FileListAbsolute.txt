@@ -1,0 +1,9 @@
+C:\Users\ajoshi\source\repos\HotelService\HotelService\obj\Debug\HotelService.csproj.CoreCompileInputs.cache
+C:\Users\ajoshi\source\repos\HotelService\HotelService\bin\Debug\HotelService.dll.config
+C:\Users\ajoshi\source\repos\HotelService\HotelService\bin\Debug\HotelService.dll
+C:\Users\ajoshi\source\repos\HotelService\HotelService\bin\Debug\HotelService.pdb
+C:\Users\ajoshi\source\repos\HotelService\HotelService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ajoshi\source\repos\HotelService\HotelService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ajoshi\source\repos\HotelService\HotelService\obj\Debug\HotelService.csproj.CopyComplete
+C:\Users\ajoshi\source\repos\HotelService\HotelService\obj\Debug\HotelService.dll
+C:\Users\ajoshi\source\repos\HotelService\HotelService\obj\Debug\HotelService.pdb
